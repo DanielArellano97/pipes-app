@@ -1,4 +1,8 @@
-# PipesApp
+# Aplicación de demostrativa de Pipes
+
+Aplicación que muestra diversos Pipes nativos como pipes personalizados de angular.
+
+Tecnologia usada: Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
 
