@@ -1,4 +1,4 @@
-# Aplicación de demostrativa de Pipes
+# Aplicación demostrativa de Pipes
 
 Aplicación que muestra diversos Pipes nativos como pipes personalizados de angular.
 
